@@ -1,7 +1,7 @@
-# pang_game
-I wrote a game in Python using Pygame.
+# Bubble Split
+I wrote a bubble splitting game in Python with PyGame.
 
-Try to break as many as ballons as you can!
+Try to get your score high as you can by popping the bubbles!
 
 To play the game - clone the repository then type python3 main.py. This will load up a game window.
 
